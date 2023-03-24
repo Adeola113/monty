@@ -1,6 +1,5 @@
 /*
  * Auth: Adeola Bello
- * Col: Chibuike Precious
  * File: int_to_string.c
  */
 #include <stdlib.h>

@@ -1,6 +1,5 @@
 /*
  * Auth: Adeola Bello
- * col: Chibuike Precious
  * File: run_monty.c
  */
 #include "monty.h"
