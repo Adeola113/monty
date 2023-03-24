@@ -1,5 +1,5 @@
 /*
- * Auth: Adeola Bell
+ * Auth: Adeola Bello
  * File: monty_funcs_3.c
  */
 #include "monty.h"
